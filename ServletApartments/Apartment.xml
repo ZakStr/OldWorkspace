@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<apartmentList>
+    <apartment>
+        <address>abc</address>
+        <floor>5</floor>
+        <id>1</id>
+        <prise>56000</prise>
+        <rooms>4</rooms>
+    </apartment>
+    <apartment>
+        <address>def</address>
+        <floor>8</floor>
+        <id>2</id>
+        <prise>36000</prise>
+        <rooms>2</rooms>
+    </apartment>
+    <apartment>
+        <address>ghk</address>
+        <floor>5</floor>
+        <id>3</id>
+        <prise>45000</prise>
+        <rooms>3</rooms>
+    </apartment>
+    <apartment>
+        <address>lmn</address>
+        <floor>8</floor>
+        <id>4</id>
+        <prise>64000</prise>
+        <rooms>5</rooms>
+    </apartment>
+</apartmentList>
